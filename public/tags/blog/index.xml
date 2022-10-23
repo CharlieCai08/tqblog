@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on TQ C 的博客</title>
+    <link>http://example.org/tags/blog/</link>
+    <description>Recent content in blog on TQ C 的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Oct 2022 21:13:14 -0500</lastBuildDate><atom:link href="http://example.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>你好 朋友</title>
+      <link>http://example.org/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Sun, 16 Oct 2022 21:13:14 -0500</pubDate>
+      
+      <guid>http://example.org/post/2020-12-01-r-rmarkdown/</guid>
+      <description>主页介绍这是TQ C 的个人网站，记录着他的成长轨迹…
+喜欢跑步，没有抖音账号，吃不了变态辣，喜山乐水…一枚平平无奇的小菜鸟。因为谢卡尔说：我网故我在。及其他人的影响，也来到这吐槽(一起来入坑呀)…哈哈哈…
+最近逛的博客有：
+人生救赎名言是罗曼·罗兰的:
+## [1] &amp;quot;世界上只有一种真正的英雄主义，那就是，认清生活的真相后，依然热爱生活。&amp;quot;</description>
+    </item>
+    
+  </channel>
+</rss>

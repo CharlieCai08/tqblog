@@ -1,0 +1,84 @@
+Title =  "TQ C散記"
+LanguageCode = "zh-CN"
+BaseUrl = "http://lanlingzi.cn/"
+Theme =  "next"
+MetaDataFormat =  "yaml"
+CanonifyUrls =  true
+BuildDrafts =  false
+PaginatePath =  "p"
+Paginate = 8
+DisablePathToLower =  false
+HasCJKLanguage = true
+PreserveTaxonomyNames = false
+UglyUrls = false
+PygmentsStyle = "monokai"
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+DefaultContentLanguage = "zh"
+
+[Params]
+  Introduce = "小菜鸟，打工人，生活者"
+  Description = "TQ C | 博客 | 软件 | 数据 | R语言 | SQL"
+  Keywords =  "TQ C,独立,博客,程序员,数据分析,个人,思考,读书,笔记,技术,分享,投资"
+  Subtitle = "你不妨大胆一些，爱一个人，攀一座山，追一个梦。"
+  Imglogo = "/img/logo.png"
+  AuthorImg = "/img/author.jpg"
+  DateFormat = "2006-01-02"
+  YearFormat = "2006年"
+  MonthFormat = "01-02"
+  #BaiduStatsId = "0b07433b4ab8d587dae7d34e71973839"
+  #QQStatsId = "58416275"
+  RevolverMapId = "5b4f2ucxar6"
+  Fancybox = true
+
+[Author]
+  Name = "TQ C"
+
+[Params.Share]
+  #DuoShuo = "lanlingzi"
+  Baidu = true
+
+[Params.utterances]  # https://utteranc.es/
+  owner = ""         # Your GitHub ID
+  repo = ""          # The repo to store comments
+
+[[Menu.Main]]
+  Name = "首页"
+  Pre = "home"
+  URL = "/"
+  Weight = 1
+[[Menu.Main]]
+  Name = "技术"
+  Pre = "code"
+  URL = "/categories/技术/"
+  Weight = 2
+[[Menu.Main]]
+  Name = "感想"
+  Pre = "tint"
+  URL = "/categories/感想/"
+  Weight = 3
+[[Menu.Main]]
+  Name = "笔记"
+  Pre = "book"
+  URL = "/categories/笔记/"
+  Weight = 4
+[[Menu.Main]]
+  Name = "杂记"
+  Pre = "leaf"
+  URL = "/categories/杂记/"
+  Weight = 5
+[[Menu.Main]]
+  Name = "归档"
+  Pre = "archive"
+  URL = "/post/"
+  Weight = 6
+[[Menu.Main]]
+  Name = "关于"
+  Pre = "user"
+  URL = "/about/"
+  Weight = 7
+
+[[Params.Socials]]
+  Name = "GitHub"
+  Icon = "github"
+  URL = "https://github.com/CharlieCai08"
